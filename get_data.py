@@ -161,7 +161,4 @@ def get_article_data():
 
 
 
-
-
-
     return df
